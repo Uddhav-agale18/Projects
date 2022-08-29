@@ -13,6 +13,11 @@ System.out.println("addition is "+c);
 System.out.println("subtraction is "+d);
 
 System.out.println("Uddhav agale");
+  
+System.out.println("JNEC");
+
+  
+  
 
 
 }
